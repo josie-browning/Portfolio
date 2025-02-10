@@ -1,7 +1,7 @@
 ---
 title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2025-01-19"
+author: "Josephine Browning"
+date: "2025-02-10"
 categories: [news]
 ---
 
