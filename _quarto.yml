@@ -1,9 +1,8 @@
 project:
   type: website
-  output-dir: docs
 
 website:
-  title: "Portfolio - JBrowning"
+  title: "Blog - Josie Browning"
   navbar:
     right:
       - about.qmd
@@ -15,4 +14,6 @@ format:
   html:
     theme: cosmo
     css: styles.css
+
+editor: visual
 

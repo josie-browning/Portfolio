@@ -1,5 +1,5 @@
 ---
-title: "Portfolio - JBrowning"
+title: "Blog - Josie Browning"
 listing:
   contents: posts
   sort: "date desc"
